@@ -1,7 +1,7 @@
 **Notes App**
 ---
 
-```
+
 Notes App made to test my React.JS basics. This webapp is made using Material-UI library for Minimalism. 
 
 **Installation Options**
