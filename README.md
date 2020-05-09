@@ -13,7 +13,7 @@ Notes App made to test my React.JS basics. This webapp is made using Material-UI
     + `$ cd ` to file Directory
     + `$ npm i`
     + `$ npm start`
-    The WebApp will start in Chrome after the aove command emplemented successfully.
+    The WebApp will start in Chrome after implementing above command successfully.
 
 **How to Contribute**
 ---
